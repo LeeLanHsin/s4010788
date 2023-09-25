@@ -1,1 +1,25 @@
 
+
+cd s4010788
+
+touch answer.txt
+
+cd s4010788
+
+git add branch_1
+
+git log
+
+git commit -m "All answers are easy"
+
+git status
+
+git add fourth.txt
+
+git status
+
+git commit -m "adding fourth.txt"
+
+git status
+
+rm branch_1
